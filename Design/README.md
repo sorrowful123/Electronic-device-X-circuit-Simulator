@@ -1,5 +1,5 @@
-# Electronic-device-X-circuit-Simulator 包含兩部份,分別是
-
+# Electronic-device-X-circuit-Simulator 
+包含兩部份,分別是
 半導體元件模擬器:
 
 <img width="561" height="270" alt="image" src="https://github.com/user-attachments/assets/6fee15fb-4ded-4ee3-b262-11c53c42b152" />
