@@ -1,1 +1,1 @@
-#這裡是關於本項目的實踐過程
+# Electronic-device-X-circuit-Simulator
